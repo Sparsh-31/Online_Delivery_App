@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "customer_name": "Raj",
+        "status": "received",
+        "items": [
+            {
+                "dish_id": 1,
+                "dish_name": "Samosa"
+            },
+            {
+                "dish_id": 3,
+                "dish_name": "Pasta"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "customer_name": "Jane Smith",
+        "status": "pendreceiveding",
+        "items": [
+            {
+                "dish_id": 1,
+                "dish_name": "Samosa"
+            },
+            {
+                "dish_id": 2,
+                "dish_name": "Pizza"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "customer_name": "Kirti",
+        "status": "pending",
+        "items": [
+            {
+                "dish_id": 1,
+                "dish_name": "Samosa"
+            }
+        ]
+    }
+]
